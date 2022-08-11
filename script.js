@@ -1,7 +1,7 @@
 //Build html elements
 document.body.innerHTML=`<div class="heading-container">
 <h1>Nationality Predictor of Name</h1>
-<img class="icon" src="https://www.legalbites.in/wp-content/uploads/2018/06/Nationality-Citizenship-and-Statelessness.jpg" width="30%" height="100px" alt="Nationalize API"><img class="icon" src="https://www.legalbites.in/wp-content/uploads/2018/06/Nationality-Citizenship-and-Statelessness.jpg" width="50%" height="100px" alt="Nationalize API">
+<img class="icon" src="https://www.legalbites.in/wp-content/uploads/2018/06/Nationality-Citizenship-and-Statelessness.jpg" width="20%" height="100px" alt="Nationalize API"><img class="icon" src="https://www.legalbites.in/wp-content/uploads/2018/06/Nationality-Citizenship-and-Statelessness.jpg" width="60%" height="100px" alt="Nationalize API"><img class="icon" src="https://www.legalbites.in/wp-content/uploads/2018/06/Nationality-Citizenship-and-Statelessness.jpg" width="20%" height="100px" alt="Nationalize API">
 </div>
 <div class="main-Container" id="mainContainer"
 </div>`
